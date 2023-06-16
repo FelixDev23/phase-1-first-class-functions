@@ -9,6 +9,6 @@ function returnsANamedFunction() {
 }
 function returnsAnAnonymousFunction(){
     return function() {
-    console.log("Martin");
+    "Martin";
     }
 };

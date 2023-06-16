@@ -4,7 +4,7 @@ function receivesAFunction (callback) {
 
 function returnsANamedFunction() {
     return function days() {
-        console.log("Monday");
+        
     };
 }
 function returnsAnAnonymousFunction(){

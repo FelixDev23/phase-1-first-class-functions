@@ -1,5 +1,5 @@
 function receivesAFunction (callback) {
-    callback ("hello");
+    callback ("Maendeleo ya wanawake");
 }
 
 function returnsANamedFunction() {
